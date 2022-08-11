@@ -1,0 +1,1 @@
+- 嗨，我是@aiferu-我有兴趣..。我正在学习..。我想和你合作..。如何找到我。<!---Aiferu/aiferu 是一个 something special something 仓库，因为它的‘ README.md’(此文件)出现在您的 GitHub 配置文件中。可以单击 Preview 链接查看更改。--->
